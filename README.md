@@ -1,0 +1,2 @@
+# KarudevHydratorBundle
+Hydrators to use
